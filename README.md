@@ -27,7 +27,7 @@ Security    →  Cybersecurity fundamentals baked in, not bolted on
 ### 📬 Reach me
 - 💼 [LinkedIn](https://linkedin.com/in/salman-farooqi) 
 - 🧑‍💻 [Upwork](https://www.upwork.com/freelancers/~01aac6e86b3d9415f9) — open to freelance contracts
-- 📧 Drop a message via GitHub or LinkedIn
+- 📧 [salmanfarooqiofficial@gmail.com](mailto:salmanfarooqiofficial@gmail.com)
 
 ---
 
