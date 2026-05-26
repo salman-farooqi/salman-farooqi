@@ -31,8 +31,7 @@ I got into software through **#100Devs** after COVID — self-taught, open-sourc
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salman-farooqi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salman-farooqi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=salman-farooqi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
